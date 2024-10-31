@@ -1,0 +1,23 @@
+#header {
+background-color:#bfbfbf;
+
+}
+
+body {
+text-align:center;
+margin-top: 0;
+margin-left:15%;
+width: 75%;
+border: solid blue 2px;
+}
+
+h1 {
+margin-top: 20px;
+padding: 0;
+}
+
+h2 {
+font-style:italic;
+margin:0;
+padding:0;
+}
